@@ -1,0 +1,19 @@
+# Entorno virtual de Python
+Lib/
+Scripts/
+Include/
+bin/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Archivos de audio/video grandes
+*.mp3
+*.wav
+*.mp4
+*.mov
+
+# Carpetas de IDE
+.vscode/
+.idea/
